@@ -28,6 +28,7 @@ private $deviceId = null; // Leave null to always list devices first
 email / password → your TP-Link Kasa account credentials
 
 url → depends on your Kasa region (common: use1-wap, eu-wap)
+
 🌐 Common TP-Link Kasa Cloud API Endpoints
 
 North America (USA, Canada, etc.):
