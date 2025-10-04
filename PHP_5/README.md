@@ -1,4 +1,6 @@
-Kasa Controller (PHP 5.4 Compatible)
+Kasa Controller (PHP 5.4 Compatible) and PHP 8+
+
+Adapt the code to your needs
 
 This is a generic PHP controller (no framework required) to control TP-Link Kasa smart plugs through the Kasa Cloud API.
 It works with PHP 5.4 or later and uses cURL to communicate with the Kasa cloud service.
